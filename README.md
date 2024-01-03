@@ -1,5 +1,5 @@
 # skill-collection
-Helpful Cadence Skill Scrips
+Helpful cadence skill scrips as inspiration for creating new ones.
 * setCDFParam.il:
 The script will open each schematic of each cell of a defined library and change some CDF parameters. Afterward, a check-and-save is done.
 * generate_schematics.il:
