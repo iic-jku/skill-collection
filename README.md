@@ -1,10 +1,10 @@
 # skill-collection
 Helpful Cadence Skill Scrips
-## setCDFParam.il
+* setCDFParam.il:
 The script will open each schematic of each cell of a defined library and change some CDF parameters. Afterward, a check-and-save is done.
-## generate_schematics.il
+* generate_schematics.il:
 The script will generate a schematic (with a resistor instance placed) for each cell in a defined library where an abstract view already exists.
-## generate_SupplyPins.il
+* generate_SupplyPins.il:
 The script will generate VDD and VSS pins in the schematic for each cell of a defined library.
-## generateMetallDrawingFromPin.il
+* generateMetallDrawingFromPin.il:
 The script will use the already opened layout view to generate a drawing layer over each pin layer.
