@@ -8,3 +8,5 @@ The script will generate a schematic (with a resistor instance placed) for each 
 The script will generate VDD and VSS pins in the schematic for each cell of a defined library.
 * generateMetallDrawingFromPin.il:
 The script will use the already opened layout view to generate a drawing layer over each pin layer.
+* checkAndSaveCollection.il:
+This is a collection of snippets for checkAndSave of symbol- schematic and functional-views.
